@@ -4,6 +4,8 @@
 
 **Repository:** https://github.com/jorb1/eds220-BII
 
+![alt text](https://arizona-content.usedirect.com/storage/common/20220301071637.jpg)
+
 ## About: 
 In 2021, Maricopa County —home to the Phoenix metropolitan area— was identified as the U.S. county with the most significant increase in developed land since 2001. This rapid urban sprawl has profound implications for biodiversity and the health of surrounding natural ecosystems.
 
@@ -34,5 +36,10 @@ The data for this analysis was accessed on 12/2/2024
 
 2. The second data set is the Phoenix Subdivision Shapefile Download the Phoenix subdivision polygon from the Census County Subdivision shapefiles for Arizona. All legal boundaries and names are as of January 1, 2024. The 2024 TIGER/Line Shapefiles were released on September 25, 2024. https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=County+Subdivisions
 
-## References: section. 
-In an appropriate, consistent format, including links, provide a reference to the course and any other sources that supported the development of the repository. Include formal references to the datasets. You can use the APA style to cite data sources as outlined here.
+## Citations:
+
+C. Galaz García, EDS 220 - Working with Environmental Datasets, Course Notes. 2024. [Online]. Available: https://meds-eds-220.github.io/MEDS-eds-220-course/book/preface.html
+
+Microsoft Planetary Computer, STAC Catalog. Biodiversity Intactness ('io-biodiversity'). [Dataset]. https://planetarycomputer.microsoft.com/dataset/io-biodiversity Accessed 2 December 2024.
+
+United States Census Bureau. (2022). Arizona County Subdivision 2022 TIGER/Line Shapefiles. [Data File]. U.S. Census Bureau, Geography Division. https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=County+Subdivisions Accessed 2 December 2024.

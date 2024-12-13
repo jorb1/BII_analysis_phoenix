@@ -1,4 +1,4 @@
-# Title: Biodiversity Intactness Index change in Phoenix, AZ
+# Biodiversity Intactness Index change in Phoenix, AZ
 
 ### Author: Bailey Jørgensen
 
@@ -18,14 +18,7 @@ Using Python in Jupyter Notebooks,  I will investigate the impacts of urban expa
 │   ├── README.md
 │   ├── BII_analysis.ipynb
 │   └── .gitignore
-├── data
-│   ├── tl_2022_04_cousub.cpg
-│   ├── tl_2022_04_cousub.dbf
-│   ├── tl_2022_04_cousub.prj
-│   ├── tl_2022_04_cousub.shp
-│   ├── tl_2022_04_cousub.shp.ea.iso.xml
-│   ├── tl_2022_04_cousub.shp.iso.xml
-│   └── tl_2022_04_cousub.shx
+
 ```
 
 ## Data section. 
@@ -36,7 +29,7 @@ The data for this analysis was accessed on 12/2/2024
 
 2. The second data set is the Phoenix Subdivision Shapefile Download the Phoenix subdivision polygon from the Census County Subdivision shapefiles for Arizona. All legal boundaries and names are as of January 1, 2024. The 2024 TIGER/Line Shapefiles were released on September 25, 2024. https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=County+Subdivisions
 
-## Citations:
+## Citations and Data Access:
 
 C. Galaz García, EDS 220 - Working with Environmental Datasets, Course Notes. 2024. [Online]. Available: https://meds-eds-220.github.io/MEDS-eds-220-course/book/preface.html
 
